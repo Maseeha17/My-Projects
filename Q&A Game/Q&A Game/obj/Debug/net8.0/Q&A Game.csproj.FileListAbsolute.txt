@@ -1,0 +1,31 @@
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\obj\Debug\net8.0\Q&A Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\obj\Debug\net8.0\Q&A Game.AssemblyInfoInputs.cache
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\obj\Debug\net8.0\Q&A Game.AssemblyInfo.cs
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\obj\Debug\net8.0\Q&A Game.csproj.CoreCompileInputs.cache
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\bin\Debug\net8.0\Q&A Game.exe
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\bin\Debug\net8.0\Q&A Game.deps.json
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\bin\Debug\net8.0\Q&A Game.runtimeconfig.json
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\bin\Debug\net8.0\Q&A Game.dll
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\bin\Debug\net8.0\Q&A Game.pdb
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\obj\Debug\net8.0\Q&A Game.csproj.AssemblyReference.cache
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\obj\Debug\net8.0\Q&A Game.csproj.Up2Date
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\obj\Debug\net8.0\Q&A Game.dll
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\obj\Debug\net8.0\refint\Q&A Game.dll
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\obj\Debug\net8.0\Q&A Game.pdb
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\obj\Debug\net8.0\Q&A Game.genruntimeconfig.cache
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\obj\Debug\net8.0\ref\Q&A Game.dll
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\bin\Debug\net8.0\NAudio.dll
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\bin\Debug\net8.0\NAudio.WaveFormRenderer.dll
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\azizm\source\repos\Q&A Game\Q&A Game\obj\Debug\net8.0\Q&A Game.sourcelink.json
