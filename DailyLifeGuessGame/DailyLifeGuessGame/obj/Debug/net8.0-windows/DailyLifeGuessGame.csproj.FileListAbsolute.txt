@@ -1,0 +1,17 @@
+C:\Users\azizm\source\repos\DailyLifeGuessGame\DailyLifeGuessGame\bin\Debug\net8.0-windows\DailyLifeGuessGame.exe
+C:\Users\azizm\source\repos\DailyLifeGuessGame\DailyLifeGuessGame\bin\Debug\net8.0-windows\DailyLifeGuessGame.deps.json
+C:\Users\azizm\source\repos\DailyLifeGuessGame\DailyLifeGuessGame\bin\Debug\net8.0-windows\DailyLifeGuessGame.runtimeconfig.json
+C:\Users\azizm\source\repos\DailyLifeGuessGame\DailyLifeGuessGame\bin\Debug\net8.0-windows\DailyLifeGuessGame.dll
+C:\Users\azizm\source\repos\DailyLifeGuessGame\DailyLifeGuessGame\bin\Debug\net8.0-windows\DailyLifeGuessGame.pdb
+C:\Users\azizm\source\repos\DailyLifeGuessGame\DailyLifeGuessGame\obj\Debug\net8.0-windows\DailyLifeGuessGame.Form1.resources
+C:\Users\azizm\source\repos\DailyLifeGuessGame\DailyLifeGuessGame\obj\Debug\net8.0-windows\DailyLifeGuessGame.csproj.GenerateResource.cache
+C:\Users\azizm\source\repos\DailyLifeGuessGame\DailyLifeGuessGame\obj\Debug\net8.0-windows\DailyLifeGuessGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azizm\source\repos\DailyLifeGuessGame\DailyLifeGuessGame\obj\Debug\net8.0-windows\DailyLifeGuessGame.AssemblyInfoInputs.cache
+C:\Users\azizm\source\repos\DailyLifeGuessGame\DailyLifeGuessGame\obj\Debug\net8.0-windows\DailyLifeGuessGame.AssemblyInfo.cs
+C:\Users\azizm\source\repos\DailyLifeGuessGame\DailyLifeGuessGame\obj\Debug\net8.0-windows\DailyLifeGuessGame.csproj.CoreCompileInputs.cache
+C:\Users\azizm\source\repos\DailyLifeGuessGame\DailyLifeGuessGame\obj\Debug\net8.0-windows\DailyLifeGuessGame.dll
+C:\Users\azizm\source\repos\DailyLifeGuessGame\DailyLifeGuessGame\obj\Debug\net8.0-windows\refint\DailyLifeGuessGame.dll
+C:\Users\azizm\source\repos\DailyLifeGuessGame\DailyLifeGuessGame\obj\Debug\net8.0-windows\DailyLifeGuessGame.pdb
+C:\Users\azizm\source\repos\DailyLifeGuessGame\DailyLifeGuessGame\obj\Debug\net8.0-windows\DailyLifeGuessGame.genruntimeconfig.cache
+C:\Users\azizm\source\repos\DailyLifeGuessGame\DailyLifeGuessGame\obj\Debug\net8.0-windows\ref\DailyLifeGuessGame.dll
+C:\Users\azizm\source\repos\DailyLifeGuessGame\DailyLifeGuessGame\obj\Debug\net8.0-windows\DailyLifeGuessGame.sourcelink.json
