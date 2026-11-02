@@ -54,6 +54,14 @@ A creative colour palette generator that allows users to generate random colour 
 
 [View Project](./AuraPaletteStudio)
 
+### 8. Tic Tac Toe Game
+
+A responsive two-player Tic Tac Toe web game developed using HTML, CSS and JavaScript. Features interactive gameplay, automatic winner and draw detection, score tracking, winning combination highlights, and game reset functionality.
+
+**Technologies:** HTML5, CSS3, JavaScript
+
+[View Project](./TicTacToeGame)
+
 ## 🎯 Areas of Interest
 
 * Business Analysis
