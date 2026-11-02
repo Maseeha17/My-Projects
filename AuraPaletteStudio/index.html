@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<title>AURA | Colour Palette Studio</title>
+
+<link rel="stylesheet" href="style.css">
+
+
+</head>
+
+<body>
+
+
+<!-- NAVIGATION -->
+<header class="navbar">
+
+    <div class="logo">
+        <span class="logo-icon">✦</span>AURA
+    </div>
+
+    <nav>
+        <a href="#studio">Studio</a>
+        <a href="#about">About</a>
+    </nav>
+
+    <div class="header-label">
+        YOUR CREATIVE COLOUR SPACE
+    </div>
+
+</header>
+
+
+<!-- MAIN CONTAINER -->
+<main class="container">
+
+    <!-- INTRODUCTION -->
+    <section class="intro">
+
+        <p class="eyebrow">WELCOME TO AURA</p>
+
+        <h1>Find your perfect <span>palette.</span></h1>
+
+        <p class="description">
+            Discover beautiful colour combinations, explore new ideas
+            and create something that feels uniquely yours.
+        </p>
+
+    </section>
+
+
+    <!-- PALETTE GENERATOR -->
+    <section class="palette-section" id="studio">
+
+        <div class="section-heading">
+
+            <div>
+                <p class="eyebrow">THE COLOUR STUDIO</p>
+                <h2>Your Palette</h2>
+            </div>
+
+            <span class="palette-count">05 COLOURS</span>
+
+        </div>
+
+
+        <!-- COLOUR CARDS -->
+        <div class="palette" id="palette">
+
+            <div class="colour-card">
+
+                <div class="colour-preview"></div>
+
+                <div class="colour-info">
+                    <span>COLOUR 01</span>
+                    <strong>#E8A598</strong>
+                    <button class="colour-lock" type="button">🔓</button>
+                </div>
+
+            </div>
+
+
+            <div class="colour-card">
+
+                <div class="colour-preview"></div>
+
+                <div class="colour-info">
+                    <span>COLOUR 02</span>
+                    <strong>#D8B4A0</strong>
+                    <button class="colour-lock" type="button">🔓</button>
+                </div>
+
+            </div>
+
+
+            <div class="colour-card">
+
+                <div class="colour-preview"></div>
+
+                <div class="colour-info">
+                    <span>COLOUR 03</span>
+                    <strong>#A8B5A2</strong>
+                    <button class="colour-lock" type="button">🔓</button>
+                </div>
+
+            </div>
+
+
+            <div class="colour-card">
+
+                <div class="colour-preview"></div>
+
+                <div class="colour-info">
+                    <span>COLOUR 04</span>
+                    <strong>#7D8F83</strong>
+                    <button class="colour-lock" type="button">🔓</button>
+                </div>
+
+            </div>
+
+
+            <div class="colour-card">
+
+                <div class="colour-preview"></div>
+
+                <div class="colour-info">
+                    <span>COLOUR 05</span>
+                    <strong>#454F46</strong>
+                    <button class="colour-lock" type="button">🔓</button>
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <!-- ACTION BUTTONS -->
+        <div class="palette-actions">
+
+            <button id="generateBtn" class="generate-btn" type="button">
+                ✦ Generate New Palette
+            </button>
+
+            <button id="saveBtn" class="secondary-btn" type="button">
+                ♡ Save Palette
+            </button>
+
+        </div>
+
+
+        <p class="hint">
+            Click a colour code to copy it. Lock individual colours to keep them.
+        </p>
+
+
+        <!-- THEME OPTIONS -->
+        <div class="theme-section">
+
+            <h2>Explore a Mood</h2>
+
+            <div class="theme-list">
+
+                <button class="theme-btn" data-theme="pastel" type="button">
+                    Pastel
+                </button>
+
+                <button class="theme-btn" data-theme="earthy" type="button">
+                    Earthy
+                </button>
+
+                <button class="theme-btn" data-theme="luxury" type="button">
+                    Luxury
+                </button>
+
+                <button class="theme-btn" data-theme="vibrant" type="button">
+                    Vibrant
+                </button>
+
+            </div>
+
+        </div>
+
+    </section>
+
+<!-- GRADIENT GENERATOR -->
+
+<section class="gradient-section" id="gradients">
+
+
+<div class="section-heading">
+
+    <div>
+        <p class="eyebrow">EXPLORE NEW DIMENSIONS</p>
+        <h2>Gradient Studio</h2>
+    </div>
+
+    <span class="palette-count">CREATE YOUR BLEND</span>
+
+</div>
+
+<!-- GRADIENT PREVIEW -->
+<div class="gradient-preview" id="gradientPreview">
+    <span>AURA GRADIENT</span>
+</div>
+
+<!-- COLOUR CONTROLS -->
+<div class="gradient-controls">
+
+    <div class="gradient-colour">
+
+        <label for="gradientColour1">FIRST COLOUR</label>
+
+        <input type="color" id="gradientColour1" value="#526b5a">
+
+    </div>
+
+    <div class="gradient-colour">
+
+        <label for="gradientColour2">SECOND COLOUR</label>
+
+        <input type="color" id="gradientColour2" value="#d8b4a0">
+
+    </div>
+
+</div>
+
+<!-- GRADIENT OPTIONS -->
+<div class="gradient-options">
+
+    <div class="gradient-option">
+
+        <label for="gradientType">GRADIENT STYLE</label>
+
+        <select id="gradientType">
+
+            <option value="linear">Linear</option>
+
+            <option value="radial">Radial</option>
+
+        </select>
+
+    </div>
+
+    <div class="gradient-option">
+
+        <label for="gradientDirection">DIRECTION</label>
+
+        <select id="gradientDirection">
+
+            <option value="to right">Left to Right</option>
+
+            <option value="to left">Right to Left</option>
+
+            <option value="to bottom">Top to Bottom</option>
+
+            <option value="to top">Bottom to Top</option>
+
+            <option value="135deg">Diagonal</option>
+
+            <option value="45deg">Opposite Diagonal</option>
+
+        </select>
+
+    </div>
+
+</div>
+
+<!-- GRADIENT BUTTONS -->
+<div class="gradient-actions">
+
+    <button id="randomGradientBtn" class="generate-btn" type="button">
+        ✦ Random Gradient
+    </button>
+
+    <button id="copyGradientBtn" class="secondary-btn" type="button">
+        Copy CSS Code
+    </button>
+
+</div>
+
+<p class="hint" id="gradientMessage">
+    Experiment with colours and create your own beautiful gradients.
+</p>
+
+
+</section>
+
+
+    <!-- ABOUT -->
+    <section class="intro" id="about" style="margin-top: 75px;">
+
+        <p class="eyebrow">ABOUT AURA</p>
+
+        <h1>Colour inspires <span>creativity.</span></h1>
+
+        <p class="description">
+            AURA is your personal colour studio. Experiment with
+            beautiful shades, discover new combinations and find
+            inspiration for your next creative project.
+        </p>
+
+    </section>
+	
+	<!-- MY FAVOURITES SECTION -->
+
+<section class="favourites-section" id="favourites">
+
+
+<div class="section-heading">
+
+    <div>
+        <p class="eyebrow">YOUR PERSONAL COLLECTION</p>
+        <h2>My Favourites ♡</h2>
+    </div>
+
+    <span class="palette-count" id="favouriteCount">0 SAVED</span>
+
+</div>
+
+<div class="favourites-grid" id="favouritesGrid">
+
+    <p class="empty-message">
+        Your favourite palettes will appear here.
+    </p>
+
+</div>
+
+
+</section>
+
+
+</main>
+
+
+<!-- FOOTER -->
+<footer>
+
+    <p>AURA COLOUR STUDIO</p>
+
+    <span>CREATE SOMETHING BEAUTIFUL.</span>
+
+</footer>
+
+
+<!-- JAVASCRIPT -->
+<script src="script.js"></script>
+
+
+</body>
+
+</html>
